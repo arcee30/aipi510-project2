@@ -1,0 +1,21 @@
+{
+  "input_rows": 32,
+  "excluded_incomplete": 0,
+  "proficiency_missing": 16,
+  "duplicate_rating_patterns": 0,
+  "analyzed_rows": 32,
+  "participant_passage_rows": 192,
+  "native_counts": {
+    "yes": 16,
+    "no": 16
+  },
+  "flagged_ids": [
+    14
+  ],
+  "level_counts": {
+    "B2": 4,
+    "C1": 9,
+    "C2": 3,
+    "Native": 16
+  }
+}
