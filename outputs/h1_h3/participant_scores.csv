@@ -1,0 +1,33 @@
+response_id,n_rated,n_correct,accuracy,mean_source_rating,confidence,human_guess_rate,native_english,english_proficiency,flag_low_effort,flag_identical_quality,flag_all_origin_extremes
+1,6,2,0.3333333333333333,5.5,3.5,0.5,yes,,False,False,False
+2,6,6,1.0,5.833333333333333,2.1666666666666665,0.5,yes,,False,False,False
+3,6,5,0.8333333333333334,6.0,2.5,0.6666666666666666,yes,,False,False,False
+4,6,2,0.3333333333333333,5.166666666666667,2.1666666666666665,0.5,yes,,False,False,False
+5,6,3,0.5,5.833333333333333,2.3333333333333335,0.6666666666666666,yes,,False,False,False
+6,6,5,0.8333333333333334,7.0,1.8333333333333333,0.6666666666666666,yes,,False,False,False
+7,6,3,0.5,8.833333333333334,3.3333333333333335,1.0,yes,,False,False,False
+8,6,2,0.3333333333333333,5.333333333333333,2.0,0.5,yes,,False,False,False
+9,6,2,0.3333333333333333,4.833333333333333,0.8333333333333334,0.16666666666666666,yes,,False,False,False
+10,6,4,0.6666666666666666,6.833333333333333,2.8333333333333335,0.8333333333333334,yes,,False,False,False
+11,6,4,0.6666666666666666,6.333333333333333,2.0,0.5,yes,,False,False,False
+12,6,3,0.5,4.5,3.0,0.3333333333333333,yes,,False,False,False
+13,6,3,0.5,5.0,1.8333333333333333,0.3333333333333333,yes,,False,False,False
+14,6,3,0.5,4.333333333333333,2.8333333333333335,0.3333333333333333,yes,,True,True,False
+15,6,3,0.5,4.833333333333333,3.0,0.3333333333333333,yes,,False,False,False
+16,6,4,0.6666666666666666,6.833333333333333,1.8333333333333333,0.8333333333333334,no,"Upper-intermediate (B2)  I can understand most English texts, but complex language can be challenging.",False,False,False
+17,6,2,0.3333333333333333,8.0,2.6666666666666665,0.8333333333333334,no,"Highly proficient (C2)  I can easily understand complex texts, including subtle meanings and stylistic differences.",False,False,False
+18,6,3,0.5,8.333333333333334,3.1666666666666665,0.6666666666666666,no,"Upper-intermediate (B2)  I can understand most English texts, but complex language can be challenging.",False,False,False
+19,6,2,0.3333333333333333,5.666666666666667,3.3333333333333335,0.5,no,"Advanced (C1)  I can comfortably read academic and professional texts, with occasional difficulty understanding subtle nuances.",False,False,False
+20,6,4,0.6666666666666666,5.333333333333333,2.0,0.5,no,"Advanced (C1)  I can comfortably read academic and professional texts, with occasional difficulty understanding subtle nuances.",False,False,False
+21,6,4,0.6666666666666666,6.666666666666667,1.6666666666666667,0.8333333333333334,no,"Advanced (C1)  I can comfortably read academic and professional texts, with occasional difficulty understanding subtle nuances.",False,False,False
+22,6,4,0.6666666666666666,5.5,2.5,0.5,no,"Advanced (C1)  I can comfortably read academic and professional texts, with occasional difficulty understanding subtle nuances.",False,False,False
+23,6,2,0.3333333333333333,8.0,3.3333333333333335,0.8333333333333334,no,"Upper-intermediate (B2)  I can understand most English texts, but complex language can be challenging.",False,False,False
+24,6,3,0.5,5.666666666666667,1.8333333333333333,0.6666666666666666,no,"Highly proficient (C2)  I can easily understand complex texts, including subtle meanings and stylistic differences.",False,False,False
+25,6,3,0.5,9.0,3.5,1.0,no,"Upper-intermediate (B2)  I can understand most English texts, but complex language can be challenging.",False,False,False
+26,6,5,0.8333333333333334,6.5,3.3333333333333335,0.6666666666666666,no,"Advanced (C1)  I can comfortably read academic and professional texts, with occasional difficulty understanding subtle nuances.",False,False,False
+27,6,3,0.5,7.166666666666667,2.6666666666666665,0.6666666666666666,no,"Advanced (C1)  I can comfortably read academic and professional texts, with occasional difficulty understanding subtle nuances.",False,False,False
+28,6,1,0.16666666666666666,6.5,2.0,0.6666666666666666,no,"Advanced (C1)  I can comfortably read academic and professional texts, with occasional difficulty understanding subtle nuances.",False,False,False
+29,6,4,0.6666666666666666,5.333333333333333,4.0,0.5,yes,,False,False,False
+30,6,3,0.5,6.666666666666667,2.5,0.6666666666666666,no,"Advanced (C1)  I can comfortably read academic and professional texts, with occasional difficulty understanding subtle nuances.",False,False,False
+31,6,3,0.5,7.666666666666667,2.1666666666666665,1.0,no,"Advanced (C1)  I can comfortably read academic and professional texts, with occasional difficulty understanding subtle nuances.",False,False,False
+32,6,4,0.6666666666666666,8.0,2.6666666666666665,0.8333333333333334,no,"Highly proficient (C2)  I can easily understand complex texts, including subtle meanings and stylistic differences.",False,False,False

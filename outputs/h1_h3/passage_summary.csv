@@ -1,0 +1,7 @@
+passage_id,correct_origin,n,n_correct,accuracy,mean_source_rating,mean_quality
+1,human,32,23,0.71875,6.6875,3.09375
+2,ai,32,13,0.40625,6.5,3.1875
+3,ai,32,7,0.21875,7.4375,2.25
+4,human,32,17,0.53125,5.75,3.4375
+5,ai,32,20,0.625,4.5,3.8125
+6,human,32,24,0.75,7.1875,2.875

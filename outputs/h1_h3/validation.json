@@ -1,0 +1,26 @@
+{
+  "input_rows": 32,
+  "excluded_incomplete": 0,
+  "proficiency_missing": 16,
+  "duplicate_rating_patterns": 0,
+  "analyzed_rows": 32,
+  "participant_passage_rows": 192,
+  "native_counts": {
+    "yes": 16,
+    "no": 16
+  },
+  "flagged_ids": [
+    14
+  ],
+  "source_sha256": {
+    "survey_responses.csv": "d2ac213948bfd1bce46d049ea2a56fc7e8e49b73837093beed22626f0aef0e9f",
+    "passage_answer_key.csv": "af6750cec15dc20cf467071db4300893e9aa41cfe13351d7e6255b8805a339f5"
+  },
+  "versions": {
+    "python": "3.11.10",
+    "numpy": "2.4.6",
+    "pandas": "3.1.0",
+    "scipy": "1.17.1",
+    "matplotlib": "3.11.2"
+  }
+}
