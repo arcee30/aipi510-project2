@@ -1,0 +1,33 @@
+response_id,native_english,english_proficiency,p1_quality,p1_origin_rating,p2_quality,p2_origin_rating,p3_quality,p3_origin_rating,p4_quality,p4_origin_rating,p5_quality,p5_origin_rating,p6_quality,p6_origin_rating
+1,Yes,,4,3,4,9,2,10,4,2,4,1,3,8
+2,Yes,,4,9,2,4,1,5,2,6,4,2,3,9
+3,Yes,,3,6,4,3,2,8,4,8,5,2,3,9
+4,Yes,,4,6,2,8,2,8,2,2,3,2,2,5
+5,Yes,,4,7,3,7,2,9,3,7,4,2,4,3
+6,Yes,,3,7,2,5,3,7,4,9,3,5,4,9
+7,Yes,,1,10,1,10,1,10,1,10,5,6,2,7
+8,Yes,,3,3,4,9,2,2,3,5,4,7,3,6
+9,Yes,,4,5,3,5,2,4,4,4,3,6,3,5
+10,Yes,,5,8,4,7,2,10,3,6,5,1,2,9
+11,Yes,,3,8,3,4,2,9,3,4,4,5,2,8
+12,Yes,,2,4,4,9,2,1,4,8,3,1,3,4
+13,Yes,,2,3,3,4,3,3,4,5,4,7,2,8
+14,Yes,,1,8,1,4,1,8,1,3,1,1,1,2
+15,Yes,,4,8,3,3,2,10,4,1,4,3,3,4
+16,No,"Upper-intermediate (B2)  I can understand most English texts, but complex language can be challenging.",2,7,4,4,2,6,4,7,5,10,3,7
+17,No,"Highly proficient (C2)  I can easily understand complex texts, including subtle meanings and stylistic differences.",3,5,3,9,2,9,4,8,4,10,3,7
+18,No,"Upper-intermediate (B2)  I can understand most English texts, but complex language can be challenging.",2,10,3,5,1,10,3,5,4,10,2,10
+19,No,"Advanced (C1)  I can comfortably read academic and professional texts, with occasional difficulty understanding subtle nuances.",2,3,4,10,2,2,2,2,4,9,3,8
+20,No,"Advanced (C1)  I can comfortably read academic and professional texts, with occasional difficulty understanding subtle nuances.",4,6,3,3,3,8,4,8,3,3,3,4
+21,No,"Advanced (C1)  I can comfortably read academic and professional texts, with occasional difficulty understanding subtle nuances.",3,6,3,8,1,9,5,6,4,4,3,7
+22,No,"Advanced (C1)  I can comfortably read academic and professional texts, with occasional difficulty understanding subtle nuances.",3,7,4,8,2,2,3,3,4,4,3,9
+23,No,"Upper-intermediate (B2)  I can understand most English texts, but complex language can be challenging.",4,9,3,10,2,8,4,3,4,9,3,9
+24,No,"Highly proficient (C2)  I can easily understand complex texts, including subtle meanings and stylistic differences.",3,8,4,6,4,7,4,4,3,2,3,7
+25,No,"Upper-intermediate (B2)  I can understand most English texts, but complex language can be challenging.",5,10,4,10,3,10,4,7,4,7,3,10
+26,No,"Advanced (C1)  I can comfortably read academic and professional texts, with occasional difficulty understanding subtle nuances.",3,7,2,3,5,9,5,10,4,1,5,9
+27,No,"Advanced (C1)  I can comfortably read academic and professional texts, with occasional difficulty understanding subtle nuances.",3,5,4,8,3,9,3,9,4,3,3,9
+28,No,"Advanced (C1)  I can comfortably read academic and professional texts, with occasional difficulty understanding subtle nuances.",3,3,3,9,3,8,3,5,4,6,3,8
+29,Yes,,2,9,4,1,2,10,3,2,4,1,4,9
+30,No,"Advanced (C1)  I can comfortably read academic and professional texts, with occasional difficulty understanding subtle nuances.",4,7,4,9,3,9,4,8,3,3,3,4
+31,No,"Advanced (C1)  I can comfortably read academic and professional texts, with occasional difficulty understanding subtle nuances.",3,8,3,8,2,8,4,7,4,6,3,9
+32,No,"Highly proficient (C2)  I can easily understand complex texts, including subtle meanings and stylistic differences.",3,9,4,6,3,10,5,10,4,5,2,8
