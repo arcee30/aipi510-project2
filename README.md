@@ -8,9 +8,7 @@ script was used.
 ## Data
 
 - `data/raw/survey_raw.xlsx` is the original survey export. It contains 32
-  responses, including the source timestamps. The spreadsheet application may
-  display AM/PM markers in Chinese because of its locale; the raw file is kept
-  unchanged.
+  responses and their timestamps. The raw file is kept unchanged.
 - `data/clean/survey_responses.csv` has one row per response and a numeric
   `response_id`. It preserves the 14 survey answers and omits timestamps.
 - `data/clean/passage_answer_key.csv` records the study team's ground truth:
