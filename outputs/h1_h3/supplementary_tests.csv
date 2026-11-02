@@ -1,0 +1,4 @@
+hypothesis,check,statistic,p
+H1,"Wilcoxon; asymptotic, zeros removed",136.5,0.10765216347518247
+H2,"Wilcoxon; asymptotic, zeros removed",81.5,0.0018770461053678631
+H3,"Pearson permutation; 9999 shuffles, two-sided",-0.03510003726221932,0.8487
