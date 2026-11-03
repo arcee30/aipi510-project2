@@ -1,0 +1,2 @@
+hypothesis,test,n,mean_quality_ai,mean_quality_human,estimate,ci95_low,ci95_high,statistic,df,p_raw,alpha,p_bonferroni,effect_type,effect,reject_null,shapiro_W,shapiro_p,wilcoxon_stat,wilcoxon_p,wilcoxon_note
+H4,Paired t-test (ttest_rel),32,3.083333333333333,3.1354166666666665,-0.05208333333333331,-0.26381184146923187,0.15964517480256527,-0.5017022015679576,31,0.6194216925399957,0.016666666666666666,1,Cohen d_z,-0.08868925721623074,False,0.9244889480755077,0.027567286572841517,208.5,0.6191214872364647,"asymptotic, 2 zero differences removed"

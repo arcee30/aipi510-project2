@@ -64,5 +64,26 @@ and power calculations. It also exports passage-level post hoc tests.
 
 Results are saved to `outputs/presentation_followups/`.
 
-Both scripts read the cleaned CSV files in `data/clean/` and leave the
+### H4, E1 and post hoc analyses
+
+```bash
+python scripts/analyze_h4_e1_posthoc.py
+```
+
+`scripts/analyze_h4_e1_posthoc.py` reuses the data preparation in
+`analyze_h1_h3.py`, so responses are scored identically. It analyzes:
+- H4: whether AI and human passages differ in perceived quality (paired t-test,
+  Wilcoxon backup; Bonferroni alpha = 0.05/3).
+- E1 (exploratory): native vs. non-native accuracy (Welch's t-test, Levene's
+  test, Mann-Whitney U backup). Source rating and confidence are compared as
+  supplementary measures.
+- Post hoc A: H1 and H2 repeated within each language group (Bonferroni
+  alpha = 0.05/4).
+- Post hoc B: one-way ANOVA of accuracy across English level (B2 / C1 / C2 /
+  native) with Tukey's HSD and Kruskal-Wallis.
+- Post hoc C: passage-level table split by language group.
+
+Results are saved to `outputs/h4_e1_posthoc/`.
+
+All scripts read the cleaned CSV files in `data/clean/` and leave the
 input data unchanged. Rerunning them replaces their generated outputs.
